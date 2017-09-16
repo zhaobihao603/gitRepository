@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 25 22:04:38 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1493129078139
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:jar\:1.2.5.RELEASE from/to spring-milestone (https\://repo.spring.io/libs-release)\: No appropriate protocol (protocol is disabled or cipher suites are inappropriate)
+@default-https\://repo.spring.io/libs-release/.lastUpdated=1493129076173

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 25 21:41:18 CST 2017
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.mybatis.spring.boot\:mybatis-spring-boot-starter\:pom\:${mybatis-spring-boot} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 89\: http\://repo.maven.apache.org/maven2/org/mybatis/spring/boot/mybatis-spring-boot-starter/${mybatis-spring-boot}/mybatis-spring-boot-starter-${mybatis-spring-boot}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1493127678073
